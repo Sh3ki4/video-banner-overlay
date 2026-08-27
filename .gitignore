@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.processing.mp4
+banner.mp4
+
+INPUT/*
+!INPUT/*.txt
+
+OUTPUT/*
+!OUTPUT/*.txt
